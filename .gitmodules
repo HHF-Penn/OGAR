@@ -1,0 +1,6 @@
+[submodule "ogarcloud"]
+	path = ogarcloud
+	url = https://github.com/hhf-penn/ogarcloud
+[submodule "ogaredit"]
+	path = ogaredit
+	url = https://github.com/hhf-penn/ogaredit
